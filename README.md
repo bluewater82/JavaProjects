@@ -1,4 +1,4 @@
-# Number Guesser
+
 This project contains a code that is a simple number-guessing game utilizing basic logic and loops.
 
 The program generates a random integer for a user to guess and provides feedback about each guess, as well as keeping track of how many tries
